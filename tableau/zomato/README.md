@@ -42,5 +42,5 @@ Bar Charts: Restaurant count and average rating per city.<br>
 Bubble Chart: Total votes for top restaurants.<br>
 Tree Map: City-wise rating trends.
 
-![alt text](https://github.com/nikhil3500/data_science_projects/blob/main/zomato/ZomatoDashboard.png)
+![alt text](https://github.com/nikhil3500/data_science_projects/blob/f52d26c1412b9c703077794072280ad17ea7b207/tableau/zomato/Zomato%20Dashboard.png)
 
