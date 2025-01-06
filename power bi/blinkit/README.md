@@ -45,5 +45,5 @@ Total Sales<br>
 Top-performing Outlets<br>
 Average MRP by Outlet Type
 
-![alt text](https://github.com/nikhil3500/data_science_projects/blob/main/blinkit/BlinkitDashboard.jpg)
+![alt text](https://github.com/nikhil3500/data_science_projects/blob/df058f16b1cc349370f100936d8024fe6eb79c6b/power%20bi/blinkit/PowerBiBlinkitDashboard.jpg)
 
