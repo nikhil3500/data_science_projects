@@ -42,3 +42,5 @@ Pie Charts: Content distribution by type.
 Line Charts: Release trends over time.
 Maps: Geospatial distribution of content.
 Bar Charts: Country-specific content breakdown.
+
+![alt text](https://github.com/nikhil3500/data_science_projects/blob/c5547bc8094badf8380680e8bc6e411e243551bd/power%20bi/netflix/NetflixContentAnalysisDashboard.jpg)
