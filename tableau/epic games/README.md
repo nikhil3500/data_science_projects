@@ -1,45 +1,37 @@
 Epic Games Video Games Analysis
 
-Project Overview
-The gaming industry is evolving rapidly, with new platforms, genres, and audience preferences shaping the market. This project leverages the "Video_Games" dataset to analyze:
+Project Overview<br>
+The gaming industry is evolving rapidly, with new platforms, genres, and audience preferences shaping the market. This project leverages the "Video_Games" dataset to analyze.<br>
 
-Sales performance across regions
-Genre and platform trends
-Developer and publisher contributions
-Critic and user rating impacts
+Sales performance across regions<br>
+Genre and platform trends<br>
+Developer and publisher contributions<br>
+Critic and user rating impacts<br>
 
-Why This Matters
-By understanding key gaming metrics, Epic Games can:
-Identify profitable opportunities
-Develop targeted marketing strategies
-Optimize game design and distribution
+Dataset Summary<br>
+Game Titles: Iconic games from diverse genres<br>
+Platforms: Leading gaming consoles and systems<br>
+Sales Data: Regional and global performance metrics<br>
+Ratings: Critic and user feedback<br>
+Demographics: Age ratings (E, T, M)<br>
 
-Dataset Summary
+Visualizations<br>
+Highlight Table: Genre-wise sales across all regions.<br>
+Horizontal Bar Chart: Top 5 platforms by global sales.<br>
+Lollipop Chart: Top 5 games by global sales.<br>
+Funnel Chart: Top 10 games based on user count.<br>
+Area Chart: Sales trends over time.<br>
+Combo Chart: Genre-wise critic vs. user scores.<br>
+Tree Map: Top 10 publishers by the number of games published.<br>
+Packed Bubble Chart: Top 10 developers by the number of games developed.<br>
+Side-by-Side Bar Chart: Regional sales comparison by age ratings (E, T, M).<br>
+Pie Chart: Age rating distribution (percentage).<br>
 
-The "Video_Games" dataset is the backbone of this project, containing:
-Game Titles: Iconic games from diverse genres
-Platforms: Leading gaming consoles and systems
-Sales Data: Regional and global performance metrics
-Ratings: Critic and user feedback
-Demographics: Age ratings (E, T, M)
-
-Visualizations
-Highlight Table: Genre-wise sales across all regions.
-Horizontal Bar Chart: Top 5 platforms by global sales.
-Lollipop Chart: Top 5 games by global sales.
-Funnel Chart: Top 10 games based on user count.
-Area Chart: Sales trends over time.
-Combo Chart: Genre-wise critic vs. user scores.
-Tree Map: Top 10 publishers by the number of games published.
-Packed Bubble Chart: Top 10 developers by the number of games developed.
-Side-by-Side Bar Chart: Regional sales comparison by age ratings (E, T, M).
-Pie Chart: Age rating distribution (percentage).
-
-KPI Cards:
-Total Global Sales
-Regional Sales (NA, EU, JP, Others)
-Average Critic and User Scores
-Custom Insight: Developer-Publisher sales trends.
+KPI Cards:<br>
+Total Global Sales<br>
+Regional Sales (NA, EU, JP, Others)<br>
+Average Critic and User Scores<br>
+Custom Insight: Developer-Publisher sales trends.<br>
 
 ![alt text](https://github.com/nikhil3500/data_science_projects/blob/f8d68c061359e9774104c5e14ace12c4ab92af7e/tableau/epic%20games/EpicGamesDashboard1.png)
 
