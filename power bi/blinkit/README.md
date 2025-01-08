@@ -15,7 +15,7 @@ Power BI: Visualization and dashboard development.
 Jupyter Notebook: For performing data analysis and cleaning steps.
 
 Key Features<br>
-🧹 Data Cleaning and Preparation<br>
+Data Cleaning and Preparation<br>
 Removed missing values, handled duplicates, and standardized data using Pandas.<br>
 Verified data integrity to ensure readiness for analysis.<br>
 
